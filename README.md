@@ -1,6 +1,10 @@
 # SLR
-Systematic Literature Review (SLR) - tips
+Systematic Literature Review (SLR) - tips and procedures
 
+Por Mariane Nóbrega, Ph.D. student
+Supervisão: prof. Israel José dos Santos Felipe, Ph.D.
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Este documento pretende fornecer um panorama geral sobre a realização de uma revisão sistemática da literatura (systematic literature review – SLR) nas ciências sociais aplicadas, especificamente nas áreas de administração de empresas e ciências contábeis. Uma SLR deve gerar um framework na área de interesse, respondendo a uma ou mais questões de pesquisa e sendo replicável, por isso, normalmente, segue-se protocolos para sua execução.
 
 O primeiro passo para iniciar uma SLR é pesquisar outras SLR já existentes sobre o tema. Isso vai servir para identificar a relevância da sua SLR e para indicar um caminho a ser seguido, o que estará na justificativa do seu trabalho. Você pode começar pelo próprio Google Acadêmico e depois pesquisar no Periódicos Capes.
@@ -65,3 +69,4 @@ O processo de seleção pode iniciar com a leitura (screening) dos títulos, res
 Esse processo de seleção pode ser bastante demorado e intenso, a depender do cronograma estabelecido. Assim, pode ser útil utilizar alguma ferramenta/software específico para SLRs, como o Parsifal, o StArt e o SLR Tool, que serão detalhados nos tópicos X. Também podem ser utilizadas planilhas do Excel, a depender do nível de organização do pesquisador (o processo de seleção manual pode levar a resultados com baixa confiabilidade).
 
 Por fim, os resultados devem ser relatados a partir de um artigo científico ou mesmo como parte de uma dissertação ou tese. Podem ser utilizados métodos estatísticos, tabelas, gráficos, figuras, etc. Nesta etapa também podem ser utilizados alguns softwares, como, por exemplo, gerenciadores de referências, como Mendeley, Zotero, EndNote ou JabRef, que também ajudam no gerenciamento dos metadados dos documentos e na checagem final das referências.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

@@ -1,8 +1,7 @@
 # SLR
 Systematic Literature Review (SLR) - tips and procedures
 
-Por Mariane Nóbrega, Ph.D. student
-Supervisão: prof. Israel José dos Santos Felipe, Ph.D.
+Por Mariane Nóbrega (Ph.D. student) com supervisão do prof. Israel José dos Santos Felipe (Ph.D.)
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Este documento pretende fornecer um panorama geral sobre a realização de uma revisão sistemática da literatura (systematic literature review – SLR) nas ciências sociais aplicadas, especificamente nas áreas de administração de empresas e ciências contábeis. Uma SLR deve gerar um framework na área de interesse, respondendo a uma ou mais questões de pesquisa e sendo replicável, por isso, normalmente, segue-se protocolos para sua execução.
